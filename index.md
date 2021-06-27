@@ -1,4 +1,4 @@
-<img src="/HH.gif" width="100%">
+## hacker.hemang.engineer /
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Hemang_Bairwa-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/HemangBairwa)](https://twitter.com/HemangBairwa)  [![Linkedin Badge](https://img.shields.io/badge/-Hemang_Bairwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemang-bairwa-88830b1b0//)](https://www.linkedin.com/in/hemang-bairwa/) [![Gmail Badge](https://img.shields.io/badge/-Hemang2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemang2001@gmail.com)](mailto:hemang2001@gmail.com)
